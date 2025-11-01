@@ -1,15 +1,25 @@
 # 👩🏻‍💻 Italo-devs
 
 <p align="center">
+
 </p>
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Ítalo+👋;Desenvolvedor+Front-End;Apaixonado+por+Tecnologia+💻;Bem-vindo+ao+meu+perfil!+🚀" alt="Typing SVG" />
+</p>
+
 
 **`Desenvolvedor front end`**
 
 Me chamo Ítalo Silva dos Santos, tenho 17 anos e sou natural de Açailândia-MA.  
 Atualmente, estou cursando o 2º ano do ensino médio e um curso técnico em Informática para Web.  
 Sou apaixonado por tecnologia, desenvolvimento de software e sempre busco aprender novas ferramentas e linguagens para aprimorar minhas habilidades como desenvolvedor.
+<br/> 
+<br/>  
 
-<p align="left">
+<p align="center"> 
     <a href="https://github.com/Italo-devs?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -39,24 +49,28 @@ Sou apaixonado por tecnologia, desenvolvimento de software e sempre busco aprend
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-  
+
+
+
+---
 </p>
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<p align="center">📊 Estatísticas
 
 <p>
   <img 
     align="left"
     alt="GitHub Stats" 
-    height="200" 
+    height="200" d
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Italo-devs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
-  <img 
+ 
+ 
+  <img
       align="left" 
       alt="GitHub Stats" 
       height="200" 
