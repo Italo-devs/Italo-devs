@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Olá%2C+eu+sou+o+Ítalo+👋;Desenvolvedor+Front-End;Apaixonado+por+Tecnologia+💻;Bem-vindo+ao+meu+perfil!+🚀" alt="Typing SVG" />
+
 </p>
 
 
